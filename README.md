@@ -1,7 +1,7 @@
 # Hello, I'm Shweta! 
 <img align = "center" src="https://github.com/shweta-patki/shweta-patki/blob/main/bongo-cat-typing.gif?raw=true">
 <p align="justify"> I have a BTech in Computer Science from <img src="https://github.com/shweta-patki/shweta-patki/blob/main/PES-University-Logo.png?raw=true" width=25> PES University, and I'm getting my MS from <img align = "center" src="https://github.com/shweta-patki/shweta-patki/blob/main/nc-state-university-logo-png-transparent.png?raw=true" width=25>North Carolina State University!   
-<p align="left"> I work at AT&T as a Senior Associate, Data Analysis.
+<p align="left"> I worked at AT&T as a Senior Associate, Data Analysis.
 I love languages and the works of Isaac Asimov! 
 
 ## 👨‍💻 Languages
